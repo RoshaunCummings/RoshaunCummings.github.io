@@ -1,0 +1,16 @@
+.img{
+  height: 400px;
+  width: 400px;
+}
+.navbar{
+  height: 60px;
+  background-color: rgb(200, 51, 51);
+}
+
+.space{
+  height: 50px;
+}
+
+button{
+  padding: 1rem 1rem;
+}
